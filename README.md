@@ -1,14 +1,8 @@
 Este es el mejor resumidor de toda mi mi vida una creacion mia perfecta despues del afinador 
 
----
-
-##Video del Proyecto##
-
-
-
-![Video Cover](https://files.catbox.moe/kdiqcg.mp4)
-
----
+<video src="https://files.catbox.moe/kdiqcg.mp4" controls width="600">
+  Tu navegador no admite la reproducción de video.
+</video>
 
 <details>
   <summary>Instalacion</summary>
